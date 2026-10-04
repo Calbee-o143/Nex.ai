@@ -32,8 +32,7 @@ Everything runs in your browser. Chats and API keys are stored in your browser's
 ## Links
 main 
 - https://nex-ai-v1.myoxypages.com
-sub-brand 
-- https://nick-her-likes-f1.myoxypages.com
-- https://sharable.link/z4f0a29a
-- https://pagelive.site/p/tysabjz3
-- https://htmlhoster.com/p/H61XF94Y/groq.html
+- https://nick-her-likes-f1.myoxypages.com [sub-brand]
+- https://sharable.link/z4f0a29a [sub-brand]
+- https://pagelive.site/p/tysabjz3 [sub-brand]
+- https://htmlhoster.com/p/H61XF94Y/groq.html [sub-brand]
